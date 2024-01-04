@@ -2,7 +2,7 @@
 
 Hey 👋 welcome. Use this repo to generate your own ZMK keymap. It assumes you are using nice!nano v2 with your taiko dactyl manuform.
 
-## Get started
+## Get started 
 1. Fork this repo.
 2. `git clone https://github.com/yourusername/zmk-config.git` 
 3. Open up `config/dactyl_manuform_5x6.keymap` and edit the keymap (aka keyboard layout) to your liking.
